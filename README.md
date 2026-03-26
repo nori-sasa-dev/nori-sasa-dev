@@ -14,7 +14,7 @@
 
 | App | Description | Stack |
 |-----|-------------|-------|
-| 🤖 キャリア探索AI | 対話形式でスキルを構造化・言語化する | Python / Streamlit / Claude API |
+| 🤖 キャリア探索AI | 対話を通じてスキル・強み・価値観を引き出し、キャリアの方向性を探索する | Python / Streamlit / Claude API |
 | 🧭 Career Team AI | マルチエージェントによるライフデザインコーチBot | Python / Claude API |
 | 🎾 InnerLens | テニス自己観察ジャーナル（AIフィードバック付き） | Python / Streamlit / Claude API |
 | 🏫 暗黙知継承プラットフォーム | 組織の暗黙知をAIで形式知化する | Python / Streamlit / Claude API |
